@@ -1,3 +1,4 @@
+Date 2 mei 2022
 # Question subject
 - what is Git, Github and Visual Studio 
 - how do you invite colleques
