@@ -1,6 +1,8 @@
 # Question subject
-what is Git, Github and Visual Studio 
-
+- what is Git, Github and Visual Studio 
+- how do you invite colleques
+- how does cloning work to github desktop and visual studio 
+ 
 ## Key terminology
 - Git = CLI
 - Github = online platform for developers to share the program with versioning
