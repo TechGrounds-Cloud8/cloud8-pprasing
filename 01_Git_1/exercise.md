@@ -20,7 +20,7 @@ how to push and pull changes from visual studio to desktop and upload it online
 
 ### Results
 this is a screenshot of the shared access of eachothers repositories
-![screenshot of a cat picture](../00_includes/access.jpg)
+![screenshot of the access picture](../00_includes/access.jpg)
 
 this is a screenshot of the cloning to local
-![screenshot of a cat picture](../00_includes/clone.jpg)
+![screenshot of the clone picture](../00_includes/clone.jpg)
