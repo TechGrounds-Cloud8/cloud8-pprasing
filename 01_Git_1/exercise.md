@@ -1,4 +1,4 @@
-# [Subject]
+# Question subject
 what is Git, Github and Visual Studio 
 
 ## Key terminology
@@ -6,7 +6,7 @@ Git = CLI
 Github = online platform for developers to share the program with versioning
 Visual Studio Code = editor 
 
-## Exercise
+
 ### Sources
 https://www.w3schools.com/git/default.asp
 
