@@ -1,15 +1,22 @@
 # [Subject]
-[Give a short summary of the subject matter.]
+what is Git, Github and Visual Studio 
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+Git = CLI
+Github = online platform for developers to share the program with versioning
+Visual Studio Code = editor 
 
 ## Exercise
 ### Sources
-[List your sources you used for solving the exercise]
+https://www.w3schools.com/git/default.asp
+
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
+how to push and pull changes from visual studio to desktop and upload it online
 
 ### Results
-[Describe here the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+this is a screenshot of the shared access of eachothers repositories
+![screenshot of a cat picture](../00_includes/access.jpg)
+
+this is a screenshot of the cloning to local
+![screenshot of a cat picture](../00_includes/clone.jpg)
