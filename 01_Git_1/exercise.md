@@ -2,9 +2,9 @@
 what is Git, Github and Visual Studio 
 
 ## Key terminology
-Git = CLI
-Github = online platform for developers to share the program with versioning
-Visual Studio Code = editor 
+- Git = CLI
+- Github = online platform for developers to share the program with versioning
+- Visual Studio Code = editor 
 
 
 ### Sources
