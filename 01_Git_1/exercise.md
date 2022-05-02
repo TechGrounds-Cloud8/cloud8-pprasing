@@ -5,8 +5,10 @@
  
 ## Key terminology
 - Git = CLI
-- Github = online platform for developers to share the program with versioning
+- Github = online platform for developers to share the program among others with versioning
 - Visual Studio Code = editor 
+- push = put the changes online 
+- pull = download the changes to the local drive
 
 
 ### Sources
