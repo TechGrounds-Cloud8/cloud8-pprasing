@@ -17,5 +17,5 @@ typora.io
 looking for the difference in the program/platforms
 
 ### Results
-this is a screenshot of the cloning to local
+this is a screenshot 
 ![screenshot](../00_includes/file.jpg)
