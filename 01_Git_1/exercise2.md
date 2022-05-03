@@ -1,4 +1,4 @@
-# [Subject]
+# [GIT-02 Markdown]
 find out what a markdown language is
 
 ## Key terminology

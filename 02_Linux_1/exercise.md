@@ -1,4 +1,4 @@
-# [Subject]
+# [LNX-01 Setting Up]
 make a ssh connection with my server on techgrounds, look up the public key in the email and change the permissions for this file
 
 
