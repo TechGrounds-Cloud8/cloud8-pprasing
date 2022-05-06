@@ -36,7 +36,7 @@ Here is a screenshot of a script made with vim that write an extra line to the f
 ![screenshot](../00_includes/bashscript_newline.jpg)
 
 here is a screenshot of the httpd.sh file installed 
-![screenshot](../00_includes/apache.jpg)\
+![screenshot](../00_includes/apache.jpg)
 
 ### Results Exercise 2
 Here is a screenshot of creating a script lin-ex2.sh where a random number gets stored in the variable var1 and placed in a new file random.txt. add/append the new number to a new line
