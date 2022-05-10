@@ -22,4 +22,5 @@ Calculating in Hexadecimal requires a base of 16 to the power of x (16 tot de ma
 Here is a screenshot of the exercise in translating into different counting system 
 ![screenshot](../00_includes/binaryandhex.jpg)
 
-For future usage and translating: using windows calculator has a really good "programmer" mode to translate to any counting system
+For future usage and translating: using windows calculator has a really good "programmer" mode to translate to any counting system 
+
