@@ -1,4 +1,4 @@
-# [IP adressen]
+# [IP adresses]
 What different type of ip-adresses are available and how are the assigned
 
 ## Key terminology
