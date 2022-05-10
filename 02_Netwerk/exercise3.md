@@ -2,10 +2,15 @@
 Protocols are neccesary to set rules to make a connection within devices
 
 ## Key terminology
-protocol = rules the make a connection to transfer data in a structured way
+- protocol = rules the make a connection to transfer data in a structured way
+- UDP = User Data Protocol
+- fire and forget strategy = makes a request and get shooting answers as a response, where packages get lost
+- Three-way handshake = makes a request, establish a connection and then sends the connections in a save connection
 
 ## Exercise
 ### Sources
+- https://nl.wikipedia.org/wiki/User_Datagram_Protocol
+- https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/ 
 - https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html
 - https://afteracademy.com/blog/what-are-protocols-and-what-are-the-key-elements-of-protocols#:~:text=Some%20of%20the%20examples%20of,%2C%20TELNET%2C%20TFTP%2C%20etc.&text=Proprietary%20protocols%20are%20developed%20by,want%20to%20use%20their%20protocols.
 - https://www.tutorialspoint.com/what-are-the-network-protocol-requirements-in-the-communication-process
