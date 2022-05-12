@@ -22,7 +22,7 @@ Here you can find a screenshot of nmap installed and the commands (notice there 
 ![screenshot](../00_includes/nmap-ip.jpg)
 
 - -PA and with a port scan of amazon.com and bol.com
-![screenshot](../00_includes/nmap-PA-command.jpg)
+![screenshot](../00_includes/nmap-pa-command.jpg)
 
 
 With Wireshark filter on TCP  
