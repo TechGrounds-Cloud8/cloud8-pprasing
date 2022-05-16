@@ -9,6 +9,8 @@
 - principle of least privilege for authorization: give only access to a user for what he needs to see or do and block the rest.
 
 ## Exercise
+In this exercise we are learning what the possibilities are to secure your useraccount with extra security measures. And how can you reduce the chance of security issues with authorisations and restrictions. 
+
 ### Sources
 - [Difference between authentication and authorisation](https://www.sailpoint.com/identity-library/difference-between-authentication-and-authorization/#:~:text=So%2C%20what%20is%20the%20difference,a%20user%20has%20access%20to.)
 - [Factors of authentication](http://pearsonitcertification.com/articles/article.aspx?p=1718488)
