@@ -2,7 +2,8 @@
 How can you send a message without sending the key with which you can encrypt it?
 
 ## Key terminology
-- what is Asymmetric encryption: with the use of private and public key instead of only public keys
+- Asymmetric encryption: with the use of private and public key instead of only public keys
+- Symmetric encryption uses only encryption with a public key
 - Diffie Hellman encryption: a way by sharing a public key and generating another key to unlock the encryption
 
 ## Exercise
