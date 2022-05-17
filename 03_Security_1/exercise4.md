@@ -33,7 +33,7 @@ with symmetrical encryption you use the same key to decrypt and encrypt the mess
     - Playfair Cipher: uses a 5x5 table with rules to encode
     ![screenshot](../00_includes/cypher-Playfair.png)
 
-- (Two) digital ciphers (Symmatrical) that are being used today
+- (Two) digital ciphers (A-Symmatrical) that are being used today
     - Triple DES (Data Encryption Standard)
     - AES (Advanced Encryption Standard)
     - Blowfish
