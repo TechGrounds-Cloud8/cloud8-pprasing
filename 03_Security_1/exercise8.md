@@ -48,6 +48,6 @@ What is the difference betweens RPO and RTO and how can you check up systems to 
 
 ### Results
 - The RPO of the database is :
-    - While the backup is made automatically when the failure happened using the most recent available backup, the only data that is lost is the data that has been added of the last 15 minutes, while it needs to be recovered to the original database of which the entire process takes 15min.
+    - While the backup is made automatically when the failure happened using the most recent available backup, the only data that is lost is the data that has been added of the last 15 minutes, while it needs to be recovered to the original database of which the entire process takes 15min. The maximum amount of data lost is 24hours, while there is a daily backup.
 
 - The RTO of the website is 8 minutes, while it takes 8 minutes to get the website back online assuming the process is the "entire" process
