@@ -1,4 +1,4 @@
-# [VPC]
+# VPC
 Set up a vpc with public and private subnets. Add a security group and connect to a EC2 instance in the public subnet
 
 ## Key terminology
