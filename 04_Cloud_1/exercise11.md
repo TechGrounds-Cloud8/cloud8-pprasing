@@ -1,4 +1,4 @@
-# [Subject]
+# [ELB en Auto Scaling]
 See how to work with a load balancer , setting up scaling groups and do a load performance test
 
 ## Key terminology
